@@ -35,6 +35,6 @@ ADD supervisord.conf /etc/supervisord.conf
 
 VOLUME /var/etherpad
 
-EXPOSE 9001
+EXPOSE 80
 
 CMD ["supervisord", "-c", "/etc/supervisord.conf"]

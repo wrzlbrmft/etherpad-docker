@@ -16,7 +16,7 @@
 
   //IP and port which etherpad should bind at
   "ip": "0.0.0.0",
-  "port" : 9001,
+  "port" : 80,
 
   // Option to hide/show the settings.json in admin page, default option is set to true
   "showSettingsInAdminPage" : true,
